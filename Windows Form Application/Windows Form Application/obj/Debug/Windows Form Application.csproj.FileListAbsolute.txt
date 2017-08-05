@@ -9,3 +9,4 @@ C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Win
 C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\bin\Debug\Windows Form Application.pdb
 C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows Form Application.exe
 C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows Form Application.pdb
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows_Form_Application.ClientFrm.resources

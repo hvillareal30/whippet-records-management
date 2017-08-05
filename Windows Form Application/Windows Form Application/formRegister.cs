@@ -10,22 +10,21 @@ using System.Windows.Forms;
 
 namespace Windows_Form_Application
 {
-    public partial class formMain : Form
+    public partial class formRegister : Form
     {
-        public formMain()
+        public formRegister()
         {
             InitializeComponent();
         }
 
-        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        private void formRegister_Load(object sender, EventArgs e)
         {
-            this.Close();
+
         }
 
-        private void patientToolStripMenuItem_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            ClientFrm Client = new ClientFrm();
-            Client.Show();
+
         }
     }
 }

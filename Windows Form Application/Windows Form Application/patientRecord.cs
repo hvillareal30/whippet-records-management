@@ -10,22 +10,16 @@ using System.Windows.Forms;
 
 namespace Windows_Form_Application
 {
-    public partial class formMain : Form
+    public partial class patientRecord : Form
     {
-        public formMain()
+        public patientRecord()
         {
             InitializeComponent();
         }
 
-        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            this.Close();
-        }
 
-        private void patientToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            ClientFrm Client = new ClientFrm();
-            Client.Show();
         }
     }
 }
