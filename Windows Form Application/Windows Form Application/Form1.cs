@@ -29,8 +29,7 @@ namespace Windows_Form_Application
 
         private void registerToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmRegister frmregister = new frmRegister();
-            frmregister.Show();
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
