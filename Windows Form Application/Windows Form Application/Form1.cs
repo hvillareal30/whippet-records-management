@@ -21,5 +21,16 @@ namespace Windows_Form_Application
         {
 
         }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void registerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmRegister frmregister = new frmRegister();
+            frmregister.Show();
+        }
     }
 }

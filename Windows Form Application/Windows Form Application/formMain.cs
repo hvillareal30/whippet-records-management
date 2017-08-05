@@ -21,5 +21,10 @@ namespace Windows_Form_Application
         {
             this.Close();
         }
+
+        private void formMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
