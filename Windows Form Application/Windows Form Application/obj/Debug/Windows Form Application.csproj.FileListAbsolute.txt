@@ -1,1 +1,2 @@
 C:\Users\Student\Desktop\huey-helloworld\Windows Form Application\Windows Form Application\bin\Debug\Windows Form Application.exe.config
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\bin\Debug\Windows Form Application.exe.config
