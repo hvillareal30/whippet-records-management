@@ -1,1 +1,12 @@
 C:\Users\Student\Desktop\huey-helloworld\Windows Form Application\Windows Form Application\bin\Debug\Windows Form Application.exe.config
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\bin\Debug\Windows Form Application.exe.config
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\bin\Debug\Windows Form Application.exe
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\bin\Debug\Windows Form Application.pdb
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows Form Application.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows_Form_Application.Form1.resources
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows_Form_Application.formMain.resources
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows_Form_Application.frmRegister.resources
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows_Form_Application.Properties.Resources.resources
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows Form Application.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows Form Application.exe
+C:\Users\Student\Desktop\whippet-records-management\Windows Form Application\Windows Form Application\obj\Debug\Windows Form Application.pdb
